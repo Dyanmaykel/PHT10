@@ -16,3 +16,14 @@ git status
 git add .
 
 - Create a commit
+
+=== BRANCHING === 
+
+- List all the branches
+git branch -a
+
+- Create a new branch
+git branch [branch-name]
+
+- Switch to a new branch
+git switch [branch-name]
